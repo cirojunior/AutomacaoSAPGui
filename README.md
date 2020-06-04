@@ -21,17 +21,17 @@ O que vamos precisar?
 **Detalhando os itens acima.**
 
 1. Python.
-  - Vem instalado em todos sistemas operacionais, exceto o windows.
-  - Para instalar no windows, clique aqui e veja como
+    - Vem instalado em todos sistemas operacionais, exceto o windows.
+    - Para instalar no windows, clique aqui e veja como
 2. Ambiente virtual.
-  - Instalar, clique e veja como
-  - Para criar a máquina virtual "virtualenv nome_da_virtualenv"
-  - Para acessar "source nome_da_virtualenv/bin/activate"
+    - Instalar, clique e veja como
+    - Para criar a máquina virtual "virtualenv nome_da_virtualenv"
+    - Para acessar "source nome_da_virtualenv/bin/activate"
 3. Pacotes do Python.
-  - pip install selenium
-  - Os outros vem com a instalação padrão do python, não precisa adicionar.
+    - pip install selenium
+    - Os outros vem com a instalação padrão do python, não precisa adicionar.
 4. Driver para windows.
-  - Windows - https://github.com/2gis/Winium.Cruciatus
+    - Windows - https://github.com/2gis/Winium.Cruciatus
 
 Todo ambiente pronto agora é mão no código.
 
